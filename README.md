@@ -1,5 +1,6 @@
 ### Hola!!! 👋 
-Soy jose Montenegro.
+
+Soy José Montenegro. soy de Cordoba, Argentina :argentina:.
 
 Las tecnologias que manejo son:
 - HTML
@@ -8,4 +9,4 @@ Las tecnologias que manejo son:
 - REDUX
 - EXPRESS
 - MONGO DB
-- SQL -
+- SQL 
