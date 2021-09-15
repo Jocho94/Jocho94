@@ -2,7 +2,7 @@
 
 Soy José Montenegro de Cordoba, Argentina. Me desenvuelvo como desarrollador Full-Stack, con preferencia en Front-End.
 
-Me forme profesionalmente en el Bootcamp intensivo SOY HENRY, en el cual obtuve experiencia de +700hs entre lectures, homeworks, pair-programing, stand-up, checkpoints, y proyecto individual y grupal.
+Me forme profesionalmente en el Bootcamp intensivo SOY HENRY, en el cual obtuve experiencia de +700hs entre lectures, homeworks, pair-programing, stand-up, checkpoints, proyecto individual y proyecto grupal.
 
 Las tecnologias que manejo son:
 - HTML
