@@ -12,6 +12,7 @@ Las tecnologias que manejo son:
 - REACT
 - REDUX
 - EXPRESS
+- NODE
 - MONGO DB
 - SQL 
 
