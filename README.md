@@ -5,29 +5,7 @@ Soy José Montenegro de Cordoba, Argentina. Me desenvuelvo como desarrollador Fu
 Me forme profesionalmente en el Bootcamp intensivo SOY HENRY, en el cual obtuve experiencia de +700hs entre lectures, homeworks, pair-programing, stand-up, checkpoints, y proyecto individual y grupal.
 
 Introducirme en el mundo de la programacion es lo mejor que pude elegir, estoy muy motivado, con ganas de seguir aprendiendo y escalar en esta profesion.
-
-const thai = {
-  pronouns: "she" | "her",[! [Twitter: ThaiiBraga] (https://img.shields.io/twitter/follow/ThaiiBraga?style=social)] (https://twitter.com/ThaiiBraga)
-[! [Linkedin: thaianebraga] (https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/) ] (https://www.linkedin.com/in/thaianebraga/)
-[! [GitHub Thaiane] (https://img.shields.io/github/followers/thaiane?label=follow&style=social)] (https://github.com/Thaiane)
-
-
-### <img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = "50"> Un poco más sobre mí ...  
-
-`` `javascript
-const thai = {
-  pronombres: "ella" | "ella",
-  código: [Javascript, TypeScript, HTML, CSS, Ruby, Python, Java],
-  herramientas: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  arquitectura: ["microservicios", "impulsado por eventos", "patrón de sistema de diseño"],
-  techCommunities: {
-                        coorganizador: "AfroPython",
-                        locutor: "latinidad",
-                        mentor: "EducaTRANSforma"
-                      },
- desafío: "Estoy haciendo el desafío # 100DaysOfCode centrado en reaccionar y mecanografiar"
-}
-''
+https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966 Me encanta conectarme con diferentes personas, así que si quieres saludar , ¡estaré feliz de conocerte más! :)
 
 Las tecnologias que manejo son:
 - HTML
