@@ -4,6 +4,8 @@ Soy José Montenegro de Cordoba, Argentina. Me desenvuelvo como desarrollador Fu
 
 Me forme profesionalmente en el Bootcamp intensivo SOY HENRY, en el cual obtuve experiencia de +700hs entre lectures, homeworks, pair-programing, stand-up, checkpoints, proyecto individual y proyecto grupal.
 
+El lenguaje que utilizo es: JAVASCRIPT
+
 Las tecnologias que manejo son:
 - HTML
 - CSS
