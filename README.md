@@ -4,6 +4,8 @@ Soy José Montenegro de Cordoba, Argentina. Me desenvuelvo como desarrollador Fu
 
 Me forme profesionalmente en el Bootcamp intensivo SOY HENRY, en el cual obtuve experiencia de +700hs entre lectures, homeworks, pair-programing, stand-up, checkpoints, proyecto individual y proyecto grupal.
 
+Actualmente me encuentra en busqueda activa de trabajo, me ilusiona un proyecto en el que pueda aportar valor y que me permita crecer profesional y personalmente.
+
 Tengo comocimientos en:
 
 Lenguaje: Javascript.
@@ -21,7 +23,6 @@ BackEnd Developer:
 DataBase Developer:
 - MONGO DB
 - SQL 
-- 
 
 Contactame a:
 
