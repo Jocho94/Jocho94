@@ -38,3 +38,4 @@ Contactame a:
 
 :briefcase: https://www.linkedin.com/in/jos%C3%A9-montenegro94/
 
+<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jose-G-Montenegro&show_icons=true&theme=dark&locale=es" alt="danburitica" /></p></div>
