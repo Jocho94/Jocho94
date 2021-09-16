@@ -12,7 +12,7 @@ Lenguaje: Javascript.
 
 FrontEnd Developer:
 - HTML
-- CSS
+- CSS https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
 - REACT
 - REDUX
 
