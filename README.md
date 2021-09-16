@@ -6,7 +6,7 @@ Me forme profesionalmente en el Bootcamp intensivo SOY HENRY, en el cual obtuve 
 
 El lenguaje que utilizo es: JAVASCRIPT
 ##### Backend Development
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
+<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://img2.freepng.es/20180425/vre/kisspng-node-js-javascript-npm-computer-icons-web-applicat-5ae0f85a094d64.3643429315246930820381.jpg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
 </p>
 
 Las tecnologias que manejo son:
