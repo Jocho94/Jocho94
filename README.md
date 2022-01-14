@@ -6,7 +6,7 @@ Me forme profesionalmente en el Bootcamp intensivo SOY HENRY, en el cual obtuve 
 
 Actualmente me encuentra en busqueda activa de trabajo, me ilusiona un proyecto en el que pueda aportar valor y que me permita crecer profesional y personalmente.
 
-Tengo comocimientos en:
+Tengo conocimientos en:
 
 Lenguaje: 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
